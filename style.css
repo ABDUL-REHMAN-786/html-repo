@@ -1,0 +1,16 @@
+body{
+    background: gold;
+}
+button{
+    background-color: brown;
+}
+
+table ,th ,td , tr {
+    font: 300;
+    forced-color-adjust: red;
+    border: 10px;
+}
+table{
+    background-color: paleturquoise;
+    border: value="6";
+}
